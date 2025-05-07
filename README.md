@@ -14,13 +14,15 @@ A modern full-stack course management platform built with **Next.js**, **Node.js
 - 🔧 Responsive and modern design
 
 ---
+## 🖼️ Screenshots
 
 
 ## 📁 Project Structure
+```
 ├── client/ # Frontend (Next.js + Tailwind CSS)
 └── server/ # Backend (Node.js + Express + MongoDB)
 
-
+```
 ---
 
 ## 🛠️ Tech Stack
@@ -45,7 +47,32 @@ A modern full-stack course management platform built with **Next.js**, **Node.js
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Diptendu369/Course_GPT.git
+cd Course_GPT
+
+
+```
+2. Install Dependencies
+Frontend
+```
+cd client
+pnpm install
+```
+Backend
+```
+cd ../server
+pnpm install
+```
+3. Environment Variables
+Frontend → client/.env.local
+
+```
+NEXT_PUBLIC_FIREBASE_API_KEY=your_api_key
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_auth_domain
+# Add other Firebase-related variables
+```
+
+
+
 
 
