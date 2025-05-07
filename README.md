@@ -15,6 +15,16 @@ A modern full-stack course management platform built with **Next.js**, **Node.js
 
 ---
 ## 🖼️ Screenshots
+### 🧭 Dashboard
+![Dashboard](https://github.com/Diptendu369/Course_GPT/blob/main/SS/Screenshot%202025-05-07%20223032.png)
+
+### 🔐 Course Page
+![Login Page](https://github.com/Diptendu369/Course_GPT/blob/main/SS/Screenshot%202025-05-07%20222904.png)
+
+### 📚 Home Page
+![Create Course](https://github.com/Diptendu369/Course_GPT/blob/main/SS/Screenshot%202025-05-07%20223102.png)
+
+---
 
 
 ## 📁 Project Structure
