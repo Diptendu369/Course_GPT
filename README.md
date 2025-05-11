@@ -47,7 +47,7 @@ A modern full-stack course management platform built with **Next.js**, **Node.js
 ### Backend
 - Node.js
 - Express.js
-- MongoDB (via Mongoose or native driver)
+- MongoDB 
 - dotenv
 
 ---
